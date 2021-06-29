@@ -16,8 +16,6 @@ a) file "zreg_exp1.csv": regionalized flow indices principal components for the 
 
 b) file "zobs_exp1_2.csv": "observations" based flow indices principal components in the 92 catchments (for each "target" catchment the reamining 91 are used as "donor" catchments)
 
-c) folder "z_sim_hydro_model": simulated flow indices principal componets derived from simulations provided by the ensembple of hydrological models FUSE
-
 2. Folder "fid_r_summary": 
 
 a) file "overall": fraction of identifications and reliability for each experiment accross catchments and processes
